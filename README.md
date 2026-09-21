@@ -31,6 +31,18 @@
 
 `Python` · `FastAPI` · `n8n` · `OpenAI-compatible API` · `RAG` · `ChromaDB` · `Weaviate` · `Pinecone` · `Docker` · `GitHub` · `Telegram`
 
+## Реальный интерфейс
+
+### Pulat Field Core Personal
+
+Рабочий desktop-интерфейс: настройки локальных модулей, модели и путей к ресурсам.
+
+<p align="center">
+  <img src="./pulat-field-core-personal-settings.png" width="760" alt="Обезличенный интерфейс Pulat Field Core Personal">
+</p>
+
+_Скрин обезличен: данные объектов, сотрудников и ключи в публичный профиль не выгружаются._
+
 ## Ключевые проекты
 
 ### [ИИ-анализатор конкурентов ГРП](https://github.com/ppulov6-ai/Pulat/pull/1)

@@ -43,6 +43,14 @@
 
 _Скрин обезличен: данные объектов, сотрудников и ключи в публичный профиль не выгружаются._
 
+### Проверка Windows-сборки
+
+GitHub Actions выполнил сборку Windows x64: тесты и интерфейс, два открытия окна EXE, проверку Qwen внутри готового EXE и выгрузку артефакта.
+
+<p align="center">
+  <img src="./github-build-windows-exe-success.jpg" width="760" alt="Успешная Windows-сборка">
+</p>
+
 ## Ключевые проекты
 
 ### [ИИ-анализатор конкурентов ГРП](https://github.com/ppulov6-ai/Pulat/pull/1)
@@ -75,7 +83,7 @@ _Скрин обезличен: данные объектов, сотрудни�
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ppulov6-ai&show_icons=true&hide_title=true&locale=ru" alt="Статистика GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppulov6-ai&layout=compact&locale=ru" alt="Языки репозиториев">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppul6-ai&layout=compact&locale=ru" alt="Языки репозиториев">
 </p>
 
 ## Контакты

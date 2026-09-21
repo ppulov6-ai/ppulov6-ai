@@ -83,7 +83,7 @@ GitHub Actions выполнил сборку Windows x64: тесты и инте
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ppulov6-ai&show_icons=true&hide_title=true&locale=ru" alt="Статистика GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppul6-ai&layout=compact&locale=ru" alt="Языки репозиториев">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppulov6-ai&layout=compact&locale=ru" alt="Языки репозиториев">
 </p>
 
 ## Контакты
